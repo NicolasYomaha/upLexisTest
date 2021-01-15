@@ -23,8 +23,8 @@
 1. Baixe o .rar com o projeto e coloque-o na pasta htdocs do xampp. Descompacte-o
 1. Mude a configuração do apache na pasta raiz, passe de htdocs para a pasta public/ que está dentro do projeto que descompactou
 1. Abra o xampp e inicie o apache e o mysql
-1. Creie na DDBB MySql uma tabela de nome uplexis utf8-general-ci
-1. Instale [Nodejs](https://nodejs.org) Assim você tem acesso ao npm que ya bem junto com ele
+1. Crie na DDBB MySql uma tabela de nome uplexis utf8-general-ci
+1. Instale [Nodejs](https://nodejs.org) Assim você tem acesso ao npm que já bem junto com ele
 1. Entre no cmd na pasta raiz do projeto. Execute os comandos: 
     1. php artisan migrate
     1. php artisan db:seed
