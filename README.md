@@ -27,6 +27,7 @@
 1. Instale [Nodejs](https://nodejs.org) Assim você tem acesso ao npm que ya bem junto com ele
 1. Entre no cmd na pasta raiz do projeto. Execute os comandos: 
     1. php artisan migrate
+    1. php artisan db:seed
     1. composer require laravel/ui
     1. php artisan ui bootstrap
     1. npm install && npm run dev
